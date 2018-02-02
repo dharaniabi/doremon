@@ -2,7 +2,10 @@
 int main()
 {
 int year=2016;
-checkyear(year)?printf("\n leap year");
+if(2016=leap)
+{
+  printf("\n leap year");
+  else
 printf("\nleap year not");
 return0;
 }
