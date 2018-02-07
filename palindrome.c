@@ -6,4 +6,9 @@ printf("enter the number");
 scanf("%d",&number);
 if(num=reverse num)
 {
-printf(
+printf("\nthe number is palindrome");
+else
+printf("\n the number is not palindrome");
+}
+  return 0;
+}
