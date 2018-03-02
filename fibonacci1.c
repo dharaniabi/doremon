@@ -2,7 +2,7 @@
 int main()
 {
 int i,n,m1,m2,next;
-printf("enter the number of terms"
+printf("enter the number of terms");
 scanf("%d",&n);
 printf("fibonacci series are");
 for(i=0;i<n;i++)
