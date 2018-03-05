@@ -9,6 +9,6 @@ for(i=0;i<n;i++)
 scanf("%d");
 count++;
 }
-printf("the number of digits %d",count);
+printf("the number of characters %d",count);
 return 0;
 }
