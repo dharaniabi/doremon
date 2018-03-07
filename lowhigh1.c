@@ -1,9 +1,11 @@
 #include<stdio.h>
 int main()
 {
-int a[50],min,max,i,n;
-printf("enter the number");
+int a[50],min,max,i,n,num;
+printf("enter the n");
 scanf("%d",&n);
+printf("enter the number");
+scanf("%d",&num);
 max=0;
 for(i=0;i<n;i++)
 {
