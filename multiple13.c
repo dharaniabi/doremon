@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-int n;
+int a;
 printf("enter the number");
-scanf("%d",&n);
-if(n%13==0)
+scanf("%d",&a);
+if(a%13==0)
 {
 printf("the number is multiple of 13");
 }
